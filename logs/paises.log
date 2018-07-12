@@ -1,0 +1,7 @@
+2014-04-21 10:19:30,304 [main] INFO  (Main.java:14) - Aplicacion *Paises*
+2014-04-21 10:19:31,306 [main] WARN  (ConnectionProviderInitiator.java:206) - HHH000022: c3p0 properties were encountered, but the c3p0 provider class was not found on the classpath; these properties are going to be ignored.
+2014-04-21 10:19:32,692 [main] ERROR (SchemaExport.java:425) - HHH000389: Unsuccessful: alter table Provincia drop foreign key FK_65ia9718y0x0ekkon8t8ejgna
+2014-04-21 10:19:32,692 [main] ERROR (SchemaExport.java:426) - Table 'paises.Provincia' doesn't exist
+2014-04-21 14:30:51,974 [main] INFO  (Main.java:14) - Aplicacion *Paises*
+2014-04-21 14:30:53,084 [main] WARN  (ConnectionProviderInitiator.java:206) - HHH000022: c3p0 properties were encountered, but the c3p0 provider class was not found on the classpath; these properties are going to be ignored.
+2014-04-21 14:30:55,941 [main] INFO  (Main.java:53) - Fin main
